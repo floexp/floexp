@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2" style="padding=0;width=100%;">
-      <img align="center" style="padding=0;" src="https://github-readme-activity-graph.vercel.app/graph?username=floexp&theme=tokyo-night&custom_title=Whoisdon's%20Contribution%20Graph" />
+      <img align="center" style="padding=0;" src="https://github-readme-activity-graph.vercel.app/graph?username=floexp&theme=tokyo-night&custom_title=Floexp%20Contribution%20Graph" />
     </td>
   </tr>
 </table>
